@@ -25,6 +25,6 @@ pytest          # tests
 
 imageio==2.22.0
 matplotlib==3.6.0
-numpy==1.23.3
+numpy==1.26.2
 pandas
 gradio
